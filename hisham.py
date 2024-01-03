@@ -1,5 +1,5 @@
 import os 
-
+os.system("clear")
 def A_atif__Hisham():
      
      print()
