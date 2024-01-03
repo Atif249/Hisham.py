@@ -12,4 +12,4 @@ git clone https://github.com/Atif249/Hisham.py.git
 
 cd Hisham.py
 
-python Hisham.py
+python hisham.py
